@@ -41,8 +41,5 @@ java Client
 ## Logging
 Each request handled by the load balancer is logged to track which server processed it.
 
-## Future Enhancements
-- Implement dynamic server discovery.
-- Add health checks for backend servers.
-- Support for different load balancing strategies (e.g., Least Connections).
+
 
